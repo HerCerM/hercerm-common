@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hercerm-common:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hercerm_common_jar</output-path>
+    <root id="archive" name="hercerm-common.jar">
+      <element id="module-output" name="hercerm-common" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/poi/commons-codec-1.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/poi/poi-ooxml-schemas-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/poi/poi-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/poi/commons-compress-1.18.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/poi/curvesapi-1.06.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/poi/commons-collections4-4.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/poi/poi-ooxml-4.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/poi/xmlbeans-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/poi/stax-api-1.0-2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
