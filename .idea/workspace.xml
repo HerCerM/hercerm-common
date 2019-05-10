@@ -6,7 +6,52 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2915dc2f-6e9c-417b-ac2f-fa27f9857ee3" name="Default Changelist" comment="" />
+    <list default="true" id="2915dc2f-6e9c-417b-ac2f-fa27f9857ee3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/hercerm_common_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/HernanCervera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hercerm-common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/hercerm_common_jar/hercerm-common.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/ds/AVLTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/ds/AVLVertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/ds/BSTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/ds/BTree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/ds/BVertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/ds/LList$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/ds/LList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/ds/MVertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/ds/MVertexData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/ds/SortedMultimap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/ds/UVertex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/ds/VertexData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/file/CSVFile$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/file/CSVFile$CSVFileIterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/file/CSVFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/file/XLSXConverter$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/hercerm-common/hercerm/common/file/XLSXConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/hercerm-common/DataStructuresTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/hercerm-common/XLSConverterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hercerm/common/ds/AVLTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hercerm/common/ds/AVLVertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hercerm/common/ds/BSTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hercerm/common/ds/BTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hercerm/common/ds/BVertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hercerm/common/ds/LList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hercerm/common/ds/MVertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hercerm/common/ds/MVertexData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hercerm/common/ds/SortedMultimap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hercerm/common/ds/UVertex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hercerm/common/ds/VertexData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hercerm/common/file/CSVFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hercerm/common/file/XLSXConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/DataStructuresTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/XLSConverterTest.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tests/XLSConverterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="204">
               <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -72,17 +117,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hercerm/common/ds/LList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
+            <state relative-caret-position="-425">
               <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hercerm/common/ds/BSTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="127" column="5" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
+            <state relative-caret-position="127">
+              <caret line="108" column="20" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -90,10 +135,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/hercerm/common/ds/AVLTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
+            <state relative-caret-position="-1522">
               <caret line="44" column="38" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
             </state>
           </provider>
@@ -155,6 +200,9 @@
       <replace />
       <replace>getValues()</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/hercerm/common/ds/BTree.java" root0="SKIP_INSPECTION" />
@@ -220,12 +268,14 @@
     <option name="width" value="1347" />
     <option name="height" value="690" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,27 +294,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="hercerm-common" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hercerm-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-              <item name="file" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hercerm-common" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hercerm-common" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555628519386" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557446227712" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/StudentsQueryingSystem" />
     <property name="project.structure.last.edited" value="Artifacts" />
@@ -359,11 +396,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="41" y="-7" width="1246" height="735" extended-state="6" />
+    <frame x="41" y="-7" width="1246" height="735" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.58872306" visible="true" weight="0.19730185" />
-      <window_info id="Structure" order="1" sideWeight="0.41127694" side_tool="true" visible="true" weight="0.19730185" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5870647" visible="true" weight="0.2015177" />
+      <window_info id="Structure" order="1" sideWeight="0.41293532" side_tool="true" visible="true" weight="0.2015177" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -541,16 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/XLSConverterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/hercerm/common/file/CSVFile.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1751">
@@ -574,20 +601,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hercerm/common/ds/LList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hercerm/common/ds/AVLTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="38" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/hercerm/common/ds/BTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3145">
@@ -608,13 +621,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/hercerm/common/ds/BSTree.java">
+    <entry file="file://$PROJECT_DIR$/tests/XLSConverterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="127" column="5" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
+        <state relative-caret-position="204">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hercerm/common/ds/LList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-425">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hercerm/common/ds/BSTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="108" column="20" selection-start-line="108" selection-start-column="20" selection-end-line="108" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hercerm/common/ds/AVLTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1522">
+          <caret line="44" column="38" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
         </state>
       </provider>
     </entry>
